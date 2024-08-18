@@ -1,6 +1,7 @@
 # 2022-HiMCM-Python-Models
 
 ## 🏆 Awarded honorable mention in Comap's High School Mathematical Contest in Modeling (HiMCM)2022. <br />
+## 📄 [Link to Research Paper](https://drive.google.com/file/d/1pXgpB2yMI3pQrR0mmHJn-fEyuNr6S4db/view?usp=sharing)
 
 <br />
 
